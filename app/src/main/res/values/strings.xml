@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Pessoal</string>
+    <string name="welcome_title">Sua organização começa aqui</string>
+    <string name="welcome_description">Um espaço para organizar seu dia, no seu ritmo.</string>
+</resources>
